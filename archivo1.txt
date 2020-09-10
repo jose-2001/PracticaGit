@@ -1,2 +1,6 @@
+
 esta es la linea que es
+
+cambié esta línea en la rama branch2A
+
 la segunda linea la hizo programador A en la branchA
